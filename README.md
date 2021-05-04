@@ -8,7 +8,7 @@ Instrutores: [Thiago G. Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alve
 
 ## Aulas
 
-- **[Aula 1](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_01.ipynb):** Análise de dados, python, pandas e novos fármacos | Conhecendo os dados e as ferramentas
+- **[Aula 1](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_01.ipynb) / [Desafios](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_01_Desafios.ipynb) :** Análise de dados, python, pandas e novos fármacos | Conhecendo os dados e as ferramentas
     <details>
       <summary>Desafios Aula 1</summary>
        
@@ -20,29 +20,29 @@ Instrutores: [Thiago G. Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alve
     - *06*: Renomear as colunas tirando o hífen. 
     - *07*: Deixar os gráficos bonitões. (Matplotlib.pyplot)
     - *08*: Resumir o que você aprendeu com os dados
+[Notebook de Resolução](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_01_Desafios.ipynb) 
 
-        [Notebook de Resolução](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_01_Desafios.ipynb) 
     </details>
 
-- **[Aula 2]():** Estatísticas, visualização de dados e distribuições
+- **[Aula 2]() / [Desafios]():** Estatísticas, visualização de dados e distribuições
     <details>
       <summary>Desafios Aula 2</summary>
         [Nada por enquanto]
     </details>
 
-- **[Aula 3]():** Correlações e causalide
+- **[Aula 3]() / [Desafios]():** Correlações e causalide
     <details>
       <summary>Desafios Aula 3</summary>
         [Nada por enquanto]
     </details>
 
-- **[Aula 4]():** Merge e Análise de Resultados
+- **[Aula 4]() / [Desafios]():** Merge e Análise de Resultados
     <details>
       <summary>Desafios Aula 4</summary>
         [Nada por enquanto]
     </details>
 
-- **[Aula 5]():** Machine Learning e Sci-kit Learning
+- **[Aula 5]() / [Desafios]():** Machine Learning e Sci-kit Learning
     <details>
       <summary>Desafios Aula 5</summary>
         [Nada por enquanto]
