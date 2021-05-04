@@ -11,7 +11,8 @@ Instrutores: [Thiago G. Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alve
 - **[Aula 1](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_01.ipynb) / [Desafios](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_01_Desafios.ipynb) :** Análise de dados, python, pandas e novos fármacos | Conhecendo os dados e as ferramentas
     <details>
       <summary>Desafios Aula 1</summary>
-       
+    
+    [Notebook de Resolução](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_01_Desafios.ipynb)
     - *01*: Investigar por que a classe tratamento é tão desbalanceada?
     - *02*: Plotar as 5 últimas linhas da tabela
     - *03*: Proporção das classes tratamento.
