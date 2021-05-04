@@ -12,8 +12,7 @@ Instrutores: [Thiago G. Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alve
     <details>
       <summary>Desafios Aula 1</summary>
     
-        [Notebook de Resolução](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_01_Desafios.ipynb) 
-    </details>
+    [Notebook de Resolução](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_01_Desafios.ipynb)
     
     - *01*: Investigar por que a classe tratamento é tão desbalanceada?
     - *02*: Plotar as 5 últimas linhas da tabela
@@ -22,7 +21,8 @@ Instrutores: [Thiago G. Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alve
     - *05*: Procurar na documentação o método query(pandas). 
     - *06*: Renomear as colunas tirando o hífen. 
     - *07*: Deixar os gráficos bonitões. (Matplotlib.pyplot)
-    - *08*: Resumir o que você aprendeu com os dados
+    - *08*: Resumir o que você aprendeu com os dados 
+    </details>
 
 
 - **[Aula 2]():** Estatísticas, visualização de dados e distribuições
