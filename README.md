@@ -8,7 +8,7 @@ Instrutores: [Guilherme Silveira](https://www.linkedin.com/in/guilhermeazevedosi
 
 ## Aulas
 
-- **[Aula 1]():** Análise de dados, python, pandas e novos fármacos.
+- **[Aula 1]():** Análise de dados, python, pandas e novos fármacos | Conhecendo os dados e as ferramentas
     <details>
       <summary>Desafios Aula 1</summary>
         [Nada por enquanto]
