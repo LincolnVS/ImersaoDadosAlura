@@ -8,10 +8,10 @@ Instrutores: [Guilherme Silveira](https://www.linkedin.com/in/guilhermeazevedosi
 
 ## Aulas
 
-- **[Aula 1]():** Análise de dados, python, pandas e novos fármacos | Conhecendo os dados e as ferramentas
+- **[Aula 1](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_01.ipynb):** Análise de dados, python, pandas e novos fármacos | Conhecendo os dados e as ferramentas
     <details>
       <summary>Desafios Aula 1</summary>
-
+    [Link](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_01_Desafios.ipynb)
     - *01*: Investigar por que a classe tratamento é tão desbalanceada?
     - *02*: Plotar as 5 últimas linhas da tabela
     - *03*: Proporção das classes tratamento.
