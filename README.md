@@ -20,7 +20,6 @@ Instrutores: [Thiago G. Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alve
     - *06*: Renomear as colunas tirando o hífen. 
     - *07*: Deixar os gráficos bonitões. (Matplotlib.pyplot)
     - *08*: Resumir o que você aprendeu com os dados
-
         [Notebook de Resolução](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_01_Desafios.ipynb) 
     </details>
 
