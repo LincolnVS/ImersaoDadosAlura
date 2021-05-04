@@ -4,14 +4,14 @@ Projeto foi inspirado em um desafio do [Laboratory innovation science at Harvard
 
 Imersão dos dias 03/05/2021 até 07/05/2021.
 
-Instrutores: [Guilherme Silveira](https://www.linkedin.com/in/guilhermeazevedosilveira/), [Vanessa Leiko](https://www.linkedin.com/in/vanessa-leiko-oikawa-cardoso/) e [Thiago G. Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alves-santos/)
+Instrutores: [Thiago G. Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alves-santos/), [Vanessa Leiko](https://www.linkedin.com/in/vanessa-leiko-oikawa-cardoso/) e [Guilherme Silveira](https://www.linkedin.com/in/guilhermeazevedosilveira/) 
 
 ## Aulas
 
 - **[Aula 1](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_01.ipynb):** Análise de dados, python, pandas e novos fármacos | Conhecendo os dados e as ferramentas
     <details>
       <summary>Desafios Aula 1</summary>
-    [Link](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_01_Desafios.ipynb)
+       
     - *01*: Investigar por que a classe tratamento é tão desbalanceada?
     - *02*: Plotar as 5 últimas linhas da tabela
     - *03*: Proporção das classes tratamento.
@@ -20,6 +20,8 @@ Instrutores: [Guilherme Silveira](https://www.linkedin.com/in/guilhermeazevedosi
     - *06*: Renomear as colunas tirando o hífen. 
     - *07*: Deixar os gráficos bonitões. (Matplotlib.pyplot)
     - *08*: Resumir o que você aprendeu com os dados
+
+        [Notebook de Resolução](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_01_Desafios.ipynb) 
     </details>
 
 - **[Aula 2]():** Estatísticas, visualização de dados e distribuições
