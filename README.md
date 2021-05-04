@@ -11,7 +11,6 @@ Instrutores: [Guilherme Silveira](https://www.linkedin.com/in/guilhermeazevedosi
 - **[Aula 1]():** Análise de dados, python, pandas e novos fármacos | Conhecendo os dados e as ferramentas
     <details>
       <summary>Desafios Aula 1</summary>
-      Desafios:
 
     - *01*: Investigar por que a classe tratamento é tão desbalanceada?
     - *02*: Plotar as 5 últimas linhas da tabela
