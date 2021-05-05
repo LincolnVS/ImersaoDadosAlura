@@ -23,10 +23,18 @@ Instrutores: [Thiago G. Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alve
     - *08*: Resumir o que você aprendeu com os dados
     </details>
 
-- **[Aula 2]() / [Desafios]():** Estatísticas, visualização de dados e distribuições
+- **[Aula 2](https://github.com/LincolnVS/ImersaoDadosAlura/commits/main/Aula_02.ipynb) / [Desafios](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_02_Desafios.ipynb):** Estatísticas, visualização de dados e distribuições
     <details>
       <summary>Desafios Aula 2</summary>
-        [Nada por enquanto]
+    
+    [Notebook de Desafios](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_02_Desafios.ipynb)
+    - *01*: Ordenar o gráfico countplot
+    - *02*: Melhorar a visualização alterando tamanho da fonte...
+    - *03*: Plotar os histogramas com seaborn
+    - *04*: Estudar sobre as estatíticas retornadas no .describe()
+    - *05*: Refletir sobre a manipulação do tamanho das visualizações. 
+    - *06*: Fazer outras análises com o boxplot e até com o histograma. 
+    - *07*: Resumo do que você aprendeu com os dados
     </details>
 
 - **[Aula 3]() / [Desafios]():** Correlações e causalide
