@@ -23,7 +23,7 @@ Instrutores: [Thiago G. Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alve
     - *08*: Resumir o que você aprendeu com os dados
     </details>
 
-- **[Aula 2](https://github.com/LincolnVS/ImersaoDadosAlura/commits/main/Aula_02.ipynb) / [Desafios](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_02_Desafios.ipynb):** Estatísticas, visualização de dados e distribuições
+- **[Aula 2](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_02.ipynb) / [Desafios](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_02_Desafios.ipynb):** Estatísticas, visualização de dados e distribuições
     <details>
       <summary>Desafios Aula 2</summary>
     
@@ -37,7 +37,7 @@ Instrutores: [Thiago G. Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alve
     - *07*: Resumo do que você aprendeu com os dados
     </details>
 
-- **[Aula 3](https://github.com/LincolnVS/ImersaoDadosAlura/commits/main/Aula_03.ipynb) / [Desafios](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_03_Desafios.ipynb):** Estatísticas, visualização de dados e distribuições
+- **[Aula 3](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_03.ipynb) / [Desafios](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_03_Desafios.ipynb):** Estatísticas, visualização de dados e distribuições
     <details>
       <summary>Desafios Aula 3</summary>
     
