@@ -37,10 +37,18 @@ Instrutores: [Thiago G. Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alve
     - *07*: Resumo do que você aprendeu com os dados
     </details>
 
-- **[Aula 3]() / [Desafios]():** Correlações e causalide
+- **[Aula 3](https://github.com/LincolnVS/ImersaoDadosAlura/commits/main/Aula_03.ipynb) / [Desafios](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_03_Desafios.ipynb):** Estatísticas, visualização de dados e distribuições
     <details>
       <summary>Desafios Aula 3</summary>
-        [Nada por enquanto]
+    
+    [Notebook de Desafios](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_03_Desafios.ipynb)
+    - *01*: Criar tabelas de frequência com pandas.groupby()
+    - *02*: Normalizar o crosstab pela coluna.
+    - *03*: Explorar outros agregadores.
+    - *04*: Explorar o melt.
+    - *05*: Calcular e analisar a correlação entre G e C. Refletir sobre os efeitos biológicos. 
+    - *06*: Estudar o código que plota a matriz de correlação (heatmap)
+    - *07*: Resumo do que você aprendeu com os dados
     </details>
 
 - **[Aula 4]() / [Desafios]():** Merge e Análise de Resultados
