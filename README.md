@@ -72,10 +72,18 @@ Instrutores: [Thiago G. Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alve
     - *08*: Resumo do que você aprendeu com os dados
     </details>
 
-- **[Aula 5]() / [Desafios]():** Machine Learning e Sci-kit Learning
+- **[Aula 5](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_05.ipynb) / [Desafios](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_05_Desafios.ipynb):** Machine Learning e Sci-kit Learning
     <details>
       <summary>Desafios Aula 5</summary>
-        [Nada por enquanto]
+    
+    [Notebook de Desafios](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_05_Desafios.ipynb)
+    - *01*: Tente outros modelos ou mude os parâmetros dos modelos que testamos em aula.
+    - *02*: Estude a documentação do Sklearn.
+    - *03*: Pesquisar o fluxograma 'Escolhendo o melhor modelo' choosing the right estimator 
+    - *04*: Teste outras problemas (perguntas). 0, 1 ou +.
+    - *05*: Escolha a droga mais utilizada e tente criar um modelo para prever está label. 
+    - *06*: Resumo do que você aprendeu com os dados
+    </details>
     </details>
 
 Cada Aula é composta por um jupiter notebook (no colab) com os ensinamentos da aula, alguns desafios e um resumo do que foi aprendido.
