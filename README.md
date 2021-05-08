@@ -57,10 +57,19 @@ Instrutores: [Thiago G. Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alve
     - *07*: Resumo do que você aprendeu com os dados
     </details>
 
-- **[Aula 4]() / [Desafios]():** Merge e Análise de Resultados
+- **[Aula 4](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_04.ipynb) / [Desafios](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_04_Desafios.ipynb):** Merge e Análise de Resultados
     <details>
       <summary>Desafios Aula 4</summary>
-        [Nada por enquanto]
+    
+    [Notebook de Desafios](https://github.com/LincolnVS/ImersaoDadosAlura/blob/main/Aula_04_Desafios.ipynb)
+    - *01*: Encontrar o top 10, das ações do MOA (inibidor, agonista...)
+    - *02*: Criar a coluna eh_controle para quando na linha tratamento == com_controle
+    - *03*: Criar três colunas para indicar o tempo 24, 48, 72
+    - *04*: Estudar sobre combinações de DF https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
+    - *05*: Fazer análise mais detalhada considerando tempo e dose, para comparar as distribuições (Escolher uma droga e comparar com controle)
+    - *06*: Descobrir se tem algum composto que dependendo da configuração do experimento, ativa ou não ativa algum MOA 
+    - *07*: Descobrir se tem algum composto que dependendo da configuração do experimento, ativa MOAs diferentes
+    - *08*: Resumo do que você aprendeu com os dados
     </details>
 
 - **[Aula 5]() / [Desafios]():** Machine Learning e Sci-kit Learning
